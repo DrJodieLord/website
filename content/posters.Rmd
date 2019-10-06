@@ -1,0 +1,21 @@
+---
+title: "Academic Posters"
+author: "Jodie Lord"
+date: "06/10/2019"
+output: html_document
+---
+
+## NIHR Biomedical Research Council Poster 2019
+
+Here is a link to my  [poster](https://jodielordkcl.netlify.com/JL_BRC_Poster2019.pdf) presented at the 2019 NIHR BRC Mausdley Conference in London.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## WCPG Poster 2019
+
+Here is a link to my latest [poster](https://jodielordkcl.netlify.com/WCPG2019_JodieLord.pdf) presented at the 2019 World Congress for Psychiatric Genetics in Los Angeles
+
+
