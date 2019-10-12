@@ -17,5 +17,3 @@ knitr::opts_chunk$set(echo = TRUE)
 ## WCPG Poster 2019
 
 Here is a link to my latest [poster](https://jodielordkcl.netlify.com/WCPG2019_JodieLord.pdf) presented at the 2019 World Congress for Psychiatric Genetics in Los Angeles
-
-
