@@ -9,7 +9,7 @@
   weight = 10
   
 [[main]]
-    name = "Academic Posters"
+    name = "Academic Posters & Talks"
     url = "/posters"
     weight = 50
 

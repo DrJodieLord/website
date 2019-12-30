@@ -48,7 +48,14 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Jodie is a PhD student within the department of Basic and Clinical Neuroscience at King's College London. Using large biological datasets and statistical modelling techniques, her work focusses on the integration of multi-omic modalities in order to better predict Alzheimer's Disease risk. 
-
-In tandem with her PhD, Jodie is also completing a Statistical Modelling and Health Informatics PGCert, and works part-time at The Priory Hospital in Roehampton, and as a Graduate Teaching Assistant (GTA) within KCL's Psychology department. As a GTA she has assisted with the teaching and assessment of statistical modules including, "Research Methods" and "Big Data Analytics in Python".
+<br/>
+Jodie is a PhD student who is currently working within the department of Basic and Clinical Neuroscience at King's College London. Using large biological datasets and statistical modelling techniques, her work focusses on the integration of multi-omic modalities in order to better predict Alzheimer's Disease risk. 
+<br/>
+<br/>
+In tandem with her PhD, Jodie is also currently:
+<br/>
+**1.** Completing a Statistical Modelling and Health Informatics PGCert at KCL.   _Programming languages include R, Python and STATA_.
+<br/>
+**2.** Working as a Graduate Teaching Assistant within KCL's Psychology department. _In 2020, this will include leading the "Big Data Analytics in Python" skills module._
+<br/>
+**3.** Working part-time (weekends) at The Priory Hospital in Roehampton. _Predominantly within child and adolescent mental health, and eating disorder wards._
