@@ -5,15 +5,35 @@ date: "06/10/2019"
 output: html_document
 ---
 
-## NIHR Biomedical Research Council Poster 2019
 
-Here is a link to my  [poster](https://jodielord.netlify.com/JL_BRC_Poster2019.pdf) presented at the 2019 NIHR BRC Mausdley Conference in London.
+## WCPG Poster 2019
 
+[Link](https://jodielord.netlify.com/WCPG2019_JodieLord.pdf) to latest poster presented at the 2019 World Congress for Psychiatric Genetics in Los Angeles.
+
+<br/>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## WCPG Poster 2019
+## NIHR Biomedical Research Council Poster 2019
 
-Here is a link to my latest [poster](https://jodielord.netlify.com/WCPG2019_JodieLord.pdf) presented at the 2019 World Congress for Psychiatric Genetics in Los Angeles
+[Link](https://jodielord.netlify.com/JL_BRC_Poster2019.pdf) to poster presented at the 2019 NIHR BRC Mausdley Conference in London.
+
+<br/>
+
+_______________________________________________________________________
+
+<br/>
+
+# Talks/Presentations
+<br/>
+
+## Maurice Wohl Clinical Neuroscience Institute - 2019
+
+Center Talk:
+["Investigating the role of modifiable risk factors on the causal pathway to Alzheimer's Disease"](https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf).
+
+<br/>
+<br/>
+<br/>
