@@ -1,2 +1,5 @@
-# website
-personal website via R blogdown
+# Website config - R Blogdown
+
+Theme: Acadmic.
+
+Published: https://jodielord.netlify.com/
