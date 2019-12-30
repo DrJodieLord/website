@@ -1,4 +1,4 @@
-# Website config - R Blogdown
+# Personal website config using R Blogdown
 
 Theme: Acadmic.
 
