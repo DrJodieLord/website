@@ -53,9 +53,8 @@ Jodie is a PhD student who is currently working within the department of Basic a
 <br/>
 <br/>
 In tandem with her PhD, Jodie is also currently:
-<br/>
-**1.** Completing a Statistical Modelling and Health Informatics PGCert at KCL.   _Programming languages include R, Python and STATA_.
-<br/>
-**2.** Working as a Graduate Teaching Assistant within KCL's Psychology department. _In 2020, this will include leading the "Big Data Analytics in Python" skills module._
-<br/>
-**3.** Working part-time (weekends) at The Priory Hospital in Roehampton. _Predominantly within child and adolescent mental health, and eating disorder wards._
+
+- Completing a Statistical Modelling and Health Informatics PGCert at KCL.   _Programming languages include R, Python and STATA_.
+- Working as a Graduate Teaching Assistant within KCL's Psychology department. _In 2020, this will include leading the "Big Data Analytics in Python" skills module._
+- Working part-time (weekends) at The Priory Hospital in Roehampton. _Predominantly within child and adolescent mental health, and eating disorder wards._
+
