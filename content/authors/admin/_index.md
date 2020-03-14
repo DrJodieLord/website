@@ -54,9 +54,7 @@ user_groups:
 
 **Current commitments alongside this PhD include:**
 
-- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL).
-  - Programming languages include R, Python and STATA.
-  - Project will focuss on exploratory mediation to identify key mediators within high dimensional datasets.
+- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL) - Project will focuss on exploratory mediation to identify key mediators within high dimensional datasets. _Programming languages include R, Python and STATA._
   
   
 - Graduate Teaching Assistant (Dep. of Psychology, KCL) - Includes acting as module lead for the "Big Data Analytics in Python" skills mini-module.
