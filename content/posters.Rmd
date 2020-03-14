@@ -1,22 +1,33 @@
 ---
-title: "Academic Posters"
+title: ""
 author: "Jodie Lord"
 date: "06/10/2019"
 output: html_document
 ---
 
 
-#### WCPG Poster 2019
-
-[Link to latest poster](https://jodielord.netlify.com/WCPG2019_JodieLord.pdf) presented at the 2019 World Congress for Psychiatric Genetics in Los Angeles.
-<br/>
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+_______________________________________________________________________
+
+
+# Academic Posters
+
+_______________________________________________________________________
+
+<br/>
+
+#### WCPG Poster 2019
+
+- [Link to academic poster](https://jodielord.netlify.com/WCPG2019_JodieLord.pdf) presented at the 2019 World Congress for Psychiatric Genetics, hosted in Los Angeles.
+<br/>
+<br/>
+
 #### NIHR Biomedical Research Council Poster 2019
 
-[Link to poster](https://jodielord.netlify.com/JL_BRC_Poster2019.pdf) presented at the 2019 NIHR BRC Mausdley Conference in London.
+- [Link to poster](https://jodielord.netlify.com/JL_BRC_Poster2019.pdf) presented at the 2019 NIHR BRC Mausdley Conference in London.
 
 <br/>
 
@@ -25,11 +36,19 @@ _______________________________________________________________________
 
 # Talks/Presentations
 
+_______________________________________________________________________
+
+<br/>
+
 #### Maurice Wohl Clinical Neuroscience Institute - 2019
 
-Center Talk:
+- Center Talk:
 ["Investigating the role of modifiable risk factors on the causal pathway to Alzheimer's Disease"](https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf).
+
 
 <br/>
 <br/>
+
+____________
+
 <br/>

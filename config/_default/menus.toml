@@ -9,8 +9,13 @@
   weight = 10
   
 [[main]]
-    name = "Academic Posters & Talks"
+    name = "Posters & Talks"
     url = "/posters"
+    weight = 50
+    
+[[main]]
+    name = "Learning Material"
+    url = "/teaching"
     weight = 50
 
 #[[main]]

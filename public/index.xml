@@ -794,33 +794,122 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Academic Posters</title>
+      <title></title>
       <link>/posters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/posters/</guid>
       <description>
 
 
+&lt;hr /&gt;
+&lt;div id=&#34;academic-posters&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Academic Posters&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;div id=&#34;wcpg-poster-2019&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;WCPG Poster 2019&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://jodielord.netlify.com/WCPG2019_JodieLord.pdf&#34;&gt;Link to latest poster&lt;/a&gt; presented at the 2019 World Congress for Psychiatric Genetics in Los Angeles.
-&lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/WCPG2019_JodieLord.pdf&#34;&gt;Link to academic poster&lt;/a&gt; presented at the 2019 World Congress for Psychiatric Genetics, hosted in Los Angeles.
+&lt;br/&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;nihr-biomedical-research-council-poster-2019&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;NIHR Biomedical Research Council Poster 2019&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://jodielord.netlify.com/JL_BRC_Poster2019.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 NIHR BRC Mausdley Conference in London.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/JL_BRC_Poster2019.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 NIHR BRC Mausdley Conference in London.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
+&lt;/div&gt;
 &lt;div id=&#34;talkspresentations&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Talks/Presentations&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;div id=&#34;maurice-wohl-clinical-neuroscience-institute---2019&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Maurice Wohl Clinical Neuroscience Institute - 2019&lt;/h4&gt;
-&lt;p&gt;Center Talk:
-&lt;a href=&#34;https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf&#34;&gt;“Investigating the role of modifiable risk factors on the causal pathway to Alzheimer’s Disease”&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Center Talk:
+&lt;a href=&#34;https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf&#34;&gt;“Investigating the role of modifiable risk factors on the causal pathway to Alzheimer’s Disease”&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;div id=&#34;learning-material&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Learning Material&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;div id=&#34;python-workshop-material-and-solutions&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Python workshop material and solutions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material&#34;&gt;Material and solutions&lt;/a&gt; across 4 introductory Python workshops. Intended for complete beginners. Topics covered include:
+&lt;ul&gt;
+&lt;li&gt;Object assignment&lt;/li&gt;
+&lt;li&gt;Basic arithmetic 🔢&lt;/li&gt;
+&lt;li&gt;Core data types (integers, lists, dictionaries etc)&lt;/li&gt;
+&lt;li&gt;Slicing 🗡&lt;/li&gt;
+&lt;li&gt;Loops 🔃&lt;/li&gt;
+&lt;li&gt;Libraries 📚&lt;/li&gt;
+&lt;li&gt;Pandas 🐼&lt;/li&gt;
+&lt;li&gt;Data mining ⛏&lt;/li&gt;
+&lt;li&gt;Data merging 👫&lt;/li&gt;
+&lt;li&gt;Basic statistics 📈&lt;/li&gt;
+&lt;li&gt;Charting 🐬📊&lt;/li&gt;
+&lt;li&gt;Intro to basic machine learning 🎰
+&lt;br/&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;introductory-primers&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Introductory primers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/Introduction_to_omics.pdf&#34;&gt;Introduction to Omics.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Intro to high dimensional data (HDD).&lt;/li&gt;
+&lt;li&gt;What ‘omics’ is and where it fits into the realms of HDD.&lt;/li&gt;
+&lt;li&gt;Possibilities and challenges.
+&lt;br/&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/Introduction_genetics_genomics_GWAS.pdf&#34;&gt;Introduction to genetics, genomics and genome-wide association studies.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of genetics and “complex” disorders.&lt;/li&gt;
+&lt;li&gt;Importance of the Human Genome Project.&lt;/li&gt;
+&lt;li&gt;Basic genome-wide methodology: introduction to GWAS.&lt;/li&gt;
+&lt;li&gt;Importance of genomics in the wider “omics” field.
+&lt;br/&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/Going_further_intro_PRS.pdf&#34;&gt;Going further: Introduction to polygenic scoring.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Mutliple testing challenges facing GWAS approaches.&lt;/li&gt;
+&lt;li&gt;Polygenic scoring and how this can provide additional insights to standard GWAS outputs.&lt;/li&gt;
+&lt;li&gt;Within-trait vs cross-trait approaches.&lt;/li&gt;
+&lt;li&gt;Working example.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
