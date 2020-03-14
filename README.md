@@ -1,5 +1,5 @@
 # Personal website config using R Blogdown
 
-Theme: Acadmic.
+Theme: Academic.
 
 Published: https://jodielord.netlify.com/
