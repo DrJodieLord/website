@@ -17,7 +17,6 @@ _______________________________________________________________________
 
 _______________________________________________________________________
 
-<br/>
 
 #### Python workshop material and solutions
 - [Material and solutions](https://github.com/jodielord/python_teaching_material) across 4 introductory Python workshops. Intended for complete beginners. Topics covered include:
