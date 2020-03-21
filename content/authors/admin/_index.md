@@ -54,7 +54,7 @@ user_groups:
 
 **Current commitments alongside this PhD include:**
 
-- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL) 🔜_Project will focuss on exploratory mediation models to identify key mediators within high dimensional datasets._ 
+- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL) 🔜_Project will focus on exploratory mediation models to identify key mediators within high dimensional datasets._ 
   
   
 - Graduate Teaching Assistant (Dep. of Psychology, KCL) - Includes acting as module lead for the "Big Data Analytics in Python" skills mini-module.
