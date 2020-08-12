@@ -14,6 +14,11 @@
     weight = 50
     
 [[main]]
+    name = "Papers & Preprints"
+    url = "/papers"
+    weight = 50
+    
+[[main]]
     name = "Learning Material"
     url = "/teaching"
     weight = 50

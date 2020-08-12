@@ -795,6 +795,40 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/papers/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;div id=&#34;open-access-pre-prints&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Open Access Pre-prints&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;deciphering-the-causal-relationship-between-blood-metabolites-and-alzheimers-disease-a-mendelian-randomization-study&#34;&gt;&lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2020.04.28.20083253v1&#34;&gt;Deciphering the causal relationship between blood metabolites and Alzheimers Disease: a Mendelian Randomization study&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;em&gt;&lt;strong&gt;Jodie Lord&lt;/strong&gt;, Bradley Jermy, Rebecca Green, Andrew Wong, Jin Xu, Cristina Legido-Quigley, Richard Dobson, Marcus Richards, Petra Proitsi (2020)&lt;/em&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+BACKGROUND: There are currently no disease modifying treatments for Alzheimers Disease (AD). Epidemiological studies have highlighted blood metabolites as potential biomarkers, but possible confounding and reverse causation prevent causal conclusions. Here, we investigated whether nineteen metabolites previously associated with midlife cognitive function, are on the causal pathway to AD. METHODS: Summary statistics from the largest Genome-Wide Association Studies (GWAS) for AD and for metabolites were used to perform bi-directional univariable Mendelian Randomisation (MR). Bayesian model averaging MR (MR-BMA) was additionally performed to address high correlation between metabolites and to identify metabolite combinations which may be on the AD causal pathway. RESULTS: Univariable MR indicated three Extra-Large High-Density Lipoproteins (XL.HDL) to be on the causal pathway to AD: Free Cholesterol (XL.HDL.FC: OR=0.86, 95% CI=0.78-0.94), Total Lipids (XL.HDL.L: OR=0.88, 95% CI=0.80-0.97), and Phospholipids (XL.HDL.PL: OR=0.87, 95% CI=0.81-0.97); significant at an adjusted threshold of p&amp;lt;0.009. MR-BMA corroborated XL.HDL.FC to be amongst the top three causal metabolites, additionally to Total Cholesterol in XL.HDL (XL.HDL.C) and Glycoprotein Acetyls (GP) (posterior probabilities=0.112, 0.113, 0.287 respectively). Both XL.HDL.C and GP also demonstrated suggestive evidence of univariable causal associations (XL.HDL.C:OR=0.88, 95% CI=0.79-0.99; GP:OR=1.2, 95% CI=1.05-1.38); significant at the 5% level. DISCUSSION: This study offers insight into the causal relationship between metabolites previously demonstrating association with mid-life cognition, and AD. It highlights GP in addition to several XL.HDLs as causal candidates which warrant further investigation. As the pathological changes underpinning AD are thought to develop decades prior to symptom onset, progressing these findings could hold special value in informing future risk reduction strategies.
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h3 id=&#34;integrated-lipidomics-and-proteomics-network-analysis-highlights-lipid-and-immunity-pathways-associated-with-alzheimers-disease&#34;&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.03.18.995464v2&#34;&gt;Integrated lipidomics and proteomics network analysis highlights lipid and immunity pathways associated with Alzheimer’s disease&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;em&gt;Jin Xu, Giulia Bankov, Min Kim, Asger Wretlind, &lt;strong&gt;Jodie Lord&lt;/strong&gt;, Rebecca Green, Angela Hodges, Abdul Hye, Dag Aarsland, Latha Velayudhan, Richard J.B. Dobson, Petroula Proitsi, Cristina Legido-Quigley, on behalf of the AddNeuroMed Consortium (2020)&lt;/em&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+BACKGROUND: There is an urgent need to understand the molecular mechanisms underlying Alzheimer’s Disease (AD) to enable early diagnosis and develop effective treatments. Here we aim to investigate Alzheimer’s dementia using an unsupervised lipid, protein and gene multi-omic integrative approach. METHODS: A lipidomics dataset (185 AD, 40 MCI and 185 controls) and a proteomics dataset (201 AD patients, 104 MCI individuals and 97 controls) were utilised for weighted gene co-expression network analyses (WGCNA). An additional proteomics dataset (94 AD, 55 MCI and 100 controls) was included for external proteomics validation. Modules created within each modality were correlated with clinical AD diagnosis, brain atrophy measures and disease progression, as well as with each other. Gene Ontology (GO) enrichment analysis was employed to examine the biological processes and molecular and cellular functions for protein modules associated with AD phenotypes. Lipid species were annotated in the lipid modules associated with AD phenotypes. Associations between established AD risk loci and lipid/protein modules that showed high correlation with AD phenotypes were also explored. RESULTS: Five of the 20 identified lipid modules and five of the 17 identified protein modules were correlated with AD phenotypes. Lipid modules comprising of phospholipids, triglycerides, sphingolipids and cholesterol esters, correlated with AD risk loci involved in immune response and lipid metabolism. Five protein modules involved in positive regulation of cytokine production, neutrophil mediated immunity, humoral immune responses were correlated with AD risk loci involved in immune and complement systems. DISCUSSION: We have shown the first multi-omic study linking genes, proteins and lipids to study pathway dysregulation in AD. Results identified modules of tightly regulated lipids and proteins that were strongly associated with AD phenotypes and could be pathology drivers in lipid homeostasis and innate immunity.
+&lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/posters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/posters/</guid>
@@ -806,10 +840,18 @@ $$&lt;/p&gt;
 &lt;h1&gt;Academic Posters&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;div id=&#34;iscb-poster-2020&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;ISCB Poster 2020&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;ISCB_poster_2020_animated.gif&#34;&gt;Link to academic work&lt;/a&gt; presented at the 2020 conference of the International Society of Clinical Biostatistics, hosted virtually (due to ongoing COVID-19).
+&lt;br/&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div id=&#34;wcpg-poster-2019&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;WCPG Poster 2019&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/WCPG2019_JodieLord.pdf&#34;&gt;Link to academic poster&lt;/a&gt; presented at the 2019 World Congress for Psychiatric Genetics, hosted in Los Angeles.
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/WCPG2019_JodieLord.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 World Congress for Psychiatric Genetics, hosted in Los Angeles.
 &lt;br/&gt;
 &lt;br/&gt;&lt;/li&gt;
 &lt;/ul&gt;
