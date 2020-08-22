@@ -4,6 +4,9 @@ authors:
 bio: PhD student studying integrative omics
 education:
   courses:
+  - course: PGCert Applied Statistical Modelling - Distinction
+    institution: King's College London
+    year: 2020
   - course: MSc Neuroscience - Distinction
     institution: King's College London
     year: 2018
@@ -13,10 +16,12 @@ education:
 
 email: ""
 interests:
-- Bioinformatics
-- Psychiatric Genetics
-- Multi-omic approaches
+- Genetic Epidemiology
+- Biostatistics
 - Healthy Ageing
+- Mental Health
+- Biomarkers
+- Prediction Modelling
 
 name: Jodie Lord
 organizations:
@@ -49,12 +54,12 @@ user_groups:
 - Visitors
 ---
 
-- PhD student currently working within the department of Basic and Clinical Neuroscience at King's College London, with a project which focusses on the integration of multi-omic modalities in order to better predict Alzheimer's Disease risk. 
+- PhD student working within the department of Basic and Clinical Neuroscience at King's College London. Project focusses on the integration of multi-omic modalities in order to better predict Alzheimer's Disease risk. 
 <br/>
 
-**Current commitments alongside this PhD include:**
+**Additional current commitments:**
 
-- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL) 🔜_Project will focus on exploratory mediation models to identify key mediators within high dimensional datasets._ 
+- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL) 🔜 Project will focus on exploratory mediation models to identify key mediators within high dimensional datasets. 
   
   
 - Graduate Teaching Assistant (Dep. of Psychology, KCL) - Includes acting as module lead for the "Big Data Analytics in Python" skills mini-module.
