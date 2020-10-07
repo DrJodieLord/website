@@ -40,7 +40,12 @@ ____________
 
   
 ### Introductory primers
-
+- [Introduction to R and RStudio.](https://jodielord.netlify.com/Intro_R.pdf)
+  - What is R/RStudio?
+  - How do I access and navigate RStudio?
+  - basic functionality
+  - Useful resources
+  
 
 - [Introduction to Omics.](https://jodielord.netlify.com/Introduction_to_omics.pdf)
   - Intro to high dimensional data (HDD).
