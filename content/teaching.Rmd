@@ -45,7 +45,8 @@ ____________
   - How do I access and navigate RStudio?
   - basic functionality
   - Useful resources
-  
+<br/>
+<br/>
 
 - [Introduction to Omics.](https://jodielord.netlify.com/Introduction_to_omics.pdf)
   - Intro to high dimensional data (HDD).
