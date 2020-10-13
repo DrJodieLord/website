@@ -48,6 +48,15 @@ _______________________________________________________________________
 <br/>
 
 
+#### Staistical Genetics Unit - October 2020
+
+- Journal Club Presentation:
+["A Fast and Scalable Framework for Large-scale and Ultrahigh-dimensional Sparse Regression with Application in the Uk Biobank"](https://jodielord.netlify.com/JournalClub_1020.pdf).
+
+<br/>
+
+
+
 #### Social, Genetic and Developmental Psychiatry Centre (SGDP) - 2020
 
 - SGU Methods Meeting:
