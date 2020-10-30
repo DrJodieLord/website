@@ -27,7 +27,7 @@ name: Jodie Lord
 organizations:
 - name: King's College London
   url: ""
-role: PhD Student - Neuroscience</br> (Integrative Omics)
+role: PhD Student 
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,16 +54,16 @@ user_groups:
 - Visitors
 ---
 
-- PhD student working within the department of Basic and Clinical Neuroscience at King's College London. Project focusses on the integration of multi-omic modalities in order to better predict Alzheimer's Disease risk. 
+- PhD student within the department of Basic and Clinical Neuroscience, King's College London. Project focusses on the integration of metabolomics, genomics and other modalities to better predict Alzheimer's Disease risk. 
 <br/>
 
 **Additional current commitments:**
 
-- Part-time MSc in Statistical Modelling and Health Informatics (Dep. of Biostatistics,KCL) 🔜 Project will focus on exploratory mediation models to identify key mediators within high dimensional datasets. 
+- Part-time MSc: Applied Statistical Modelling and Health Informatics. Dep. of Biostatistics, KCL. Project focusses on high-dimensional mediation methods to identify key mediators within large-scale, highly correlated data. 
   
   
-- Graduate Teaching Assistant (Dep. of Psychology, KCL) - Includes acting as module lead for the "Big Data Analytics in Python" skills mini-module.
+- Graduate Teaching Assistant. Dep. of Psychology, KCL - Includes acting as lead for the "Big Data Analytics in Python" skills mini-module.
   
   
-- Health-care work at The Priory Hospital, Roehampton - Predominantly based within child and adolescent mental health, and eating disorder wards.
+- Health-care work. The Priory Hospital, Roehampton - Predominantly based within child and adolescent mental health and eating disorder wards.
 
