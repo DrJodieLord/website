@@ -54,7 +54,7 @@ user_groups:
 - Visitors
 ---
 
-- PhD student within the department of Basic and Clinical Neuroscience, King's College London. Project focusses on the integration of metabolomics, genomics and other modalities to better predict Alzheimer's Disease risk. 
+PhD student within the department of Basic and Clinical Neuroscience, King's College London. Project focusses on the integration of metabolomics, genomics and other modalities to better predict Alzheimer's Disease risk. 
 <br/>
 
 **Additional current commitments:**
