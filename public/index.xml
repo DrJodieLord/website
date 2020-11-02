@@ -866,7 +866,7 @@ BACKGROUND: There is an urgent need to understand the molecular mechanisms under
 &lt;div id=&#34;wcpg-poster-2019&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;WCPG Poster 2019&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/WCPG2019_JodieLord.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 World Congress for Psychiatric Genetics, hosted in Los Angeles.
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/WCPG2019_JodieLord.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 World Congress for Psychiatric Genetics, Los Angeles.
 &lt;br/&gt;
 &lt;br/&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -874,7 +874,7 @@ BACKGROUND: There is an urgent need to understand the molecular mechanisms under
 &lt;div id=&#34;nihr-biomedical-research-council-poster-2019&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;NIHR Biomedical Research Council Poster 2019&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/JL_BRC_Poster2019.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 NIHR BRC Mausdley Conference in London.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jodielord.netlify.com/JL_BRC_Poster2019.pdf&#34;&gt;Link to poster&lt;/a&gt; presented at the 2019 NIHR BRC Maudsley Conference, London.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;hr /&gt;
@@ -932,18 +932,19 @@ BACKGROUND: There is an urgent need to understand the molecular mechanisms under
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material&#34;&gt;Material and solutions&lt;/a&gt; across 4 introductory Python workshops. Intended for complete beginners. Topics covered include:
 &lt;ul&gt;
-&lt;li&gt;Object assignment&lt;/li&gt;
-&lt;li&gt;Basic arithmetic 🔢&lt;/li&gt;
-&lt;li&gt;Core data types (integers, lists, dictionaries etc)&lt;/li&gt;
-&lt;li&gt;Slicing 🗡&lt;/li&gt;
-&lt;li&gt;Loops 🔃&lt;/li&gt;
-&lt;li&gt;Libraries 📚&lt;/li&gt;
-&lt;li&gt;Pandas 🐼&lt;/li&gt;
-&lt;li&gt;Data mining ⛏&lt;/li&gt;
-&lt;li&gt;Data merging 👫&lt;/li&gt;
-&lt;li&gt;Basic statistics 📈&lt;/li&gt;
-&lt;li&gt;Charting 🐬📊&lt;/li&gt;
-&lt;li&gt;Intro to basic machine learning 🎰
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb&#34;&gt;Object assignment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb&#34;&gt;Basic arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb&#34;&gt;Core data types&lt;/a&gt; (integers, lists, dictionaries etc)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb&#34;&gt;Slicing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb&#34;&gt;Loops&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb&#34;&gt;Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb&#34;&gt;Pandas&lt;/a&gt; 🐼&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb&#34;&gt;Data mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb&#34;&gt;Data merging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb&#34;&gt;Basic statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb&#34;&gt;Charting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jodielord/python_teaching_material/blob/master/Session4_Solutions/Session4_Solutions.ipynb&#34;&gt;Intro to basic machine learning&lt;/a&gt; (for complete beginners)
 &lt;br/&gt;
 &lt;br/&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;

@@ -20,18 +20,18 @@ _______________________________________________________________________
 
 #### Python workshop material and solutions
 - [Material and solutions](https://github.com/jodielord/python_teaching_material) across 4 introductory Python workshops. Intended for complete beginners. Topics covered include:
-  - Object assignment
-  - Basic arithmetic 🔢
-  - Core data types (integers, lists, dictionaries etc)
-  - Slicing 🗡
-  - Loops  🔃
-  - Libraries 📚
-  - Pandas 🐼
-  - Data mining ⛏
-  - Data merging 👫
-  - Basic statistics 📈
-  - Charting 🐬📊
-  - Intro to basic machine learning 🎰
+  - [Object assignment](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb)
+  - [Basic arithmetic](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) 
+  - [Core data types](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) (integers, lists, dictionaries etc)
+  - [Slicing](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) 
+  - [Loops](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb)  
+  - [Libraries](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb) 
+  - [Pandas](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb) 🐼
+  - [Data mining](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb)
+  - [Data merging](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb) 
+  - [Basic statistics](https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb) 
+  - [Charting](https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb) 
+  - [Intro to basic machine learning](https://github.com/jodielord/python_teaching_material/blob/master/Session4_Solutions/Session4_Solutions.ipynb) (for complete beginners)
 <br/>
 <br/>
 

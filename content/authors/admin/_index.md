@@ -62,8 +62,8 @@ PhD student within the department of Basic and Clinical Neuroscience, King's Col
 - Part-time MSc: Applied Statistical Modelling and Health Informatics. Dep. of Biostatistics, KCL. Project focusses on high-dimensional mediation methods to identify key mediators within large-scale, highly correlated data. 
   
   
-- Graduate Teaching Assistant. Dep. of Psychology, KCL - Includes acting as lead for the "Big Data Analytics in Python" skills mini-module.
+- Graduate Teaching Assistant. Dep. of Psychology, KCL. Includes acting as lead for the "Big Data Analytics in Python" skills mini-module.
   
   
-- Health-care work. The Priory Hospital, Roehampton - Predominantly based within child and adolescent mental health and eating disorder wards.
+- Health-care work. The Priory Hospital, Roehampton. Predominantly based within child and adolescent mental health and eating disorder wards.
 
