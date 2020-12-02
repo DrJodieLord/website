@@ -54,12 +54,12 @@ user_groups:
 - Visitors
 ---
 
-PhD student within the department of Basic and Clinical Neuroscience, King's College London. Project focusses on the integration of metabolomics, genomics and other modalities to better predict Alzheimer's Disease risk. 
+PhD student within the department of Basic and Clinical Neuroscience, King's College London. Project focusses on the integration of metabolomics, genomics and other data modalities to better predict Alzheimer's Disease risk. 
 <br/>
 
 **Additional current commitments:**
 
-- Part-time MSc: Applied Statistical Modelling and Health Informatics. Dep. of Biostatistics, KCL. Project focusses on high-dimensional mediation methods to identify key mediators within large-scale, highly correlated data. 
+- Part-time MSc: Applied Statistical Modelling and Health Informatics. Dep. of Biostatistics, KCL. Project focusses on high-dimensional mediation methods to identify key mediators within large, highly correlated data. 
   
   
 - Graduate Teaching Assistant. Dep. of Psychology, KCL. Includes acting as lead for the "Big Data Analytics in Python" skills mini-module.
