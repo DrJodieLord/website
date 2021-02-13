@@ -20,6 +20,7 @@ interests:
 - Biostatistics
 - Healthy Ageing
 - Mental Health
+- Cognition
 - Biomarkers
 - Prediction Modelling
 
@@ -54,16 +55,16 @@ user_groups:
 - Visitors
 ---
 
-PhD student within the department of Basic and Clinical Neuroscience, King's College London. Project focusses on the integration of metabolomics, genomics and other data modalities to better predict Alzheimer's Disease risk. 
+Jodie is a PhD student working within the department of Basic and Clinical Neuroscience, King's College London. Her project focusses on the integration of metabolomics data with genomic and non-omic modalities in order to investigate predictive and causal markers of Alzheimer's Disease. 
 <br/>
 
-**Additional current commitments:**
+**Additional current commitments include:**
 
-- Part-time MSc: Applied Statistical Modelling and Health Informatics. Dep. of Biostatistics, KCL. Project focusses on high-dimensional mediation methods to identify key mediators within large, highly correlated data. 
+- **Part-time MSc:** Applied Statistical Modelling and Health Informatics. Department of Biostatistics, KCL. Thesis project focusses on high-dimensional mediation methods to identify key mediators within large, highly correlated data. 
   
   
-- Graduate Teaching Assistant. Dep. of Psychology, KCL. Includes acting as lead for the "Big Data Analytics in Python" skills mini-module.
+- **Graduate Teaching Assistant:** Department of Psychology, KCL. Includes acting as module lead for the "Big Data Analytics in Python" mini-module - responsible for producing all course and assessment material (teaching material openly accessible via my [github](https://github.com/jodielord/python_teaching_material)).
   
   
-- Health-care work. The Priory Hospital, Roehampton. Predominantly based within child and adolescent mental health and eating disorder wards.
+- **Health-care work:** The Priory Hospital, Roehampton. Predominantly based within child and adolescent mental health and eating disorder wards.
 

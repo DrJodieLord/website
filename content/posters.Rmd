@@ -22,32 +22,28 @@ _______________________________________________________________________
 
 #### Edinburgh University - December 2020
 
-- Presentation:
-["Disentangling independent and mediated causal relationships between blood metabolites and Alzheimer's Disease"](https://jodielord.netlify.com/Edinburgh_dec2020.pdf).
+[Disentangling independent and mediated causal relationships between blood metabolites and Alzheimer's Disease.](https://jodielord.netlify.com/Edinburgh_dec2020.pdf)
 
 <br/>
 
 
-#### Staistical Genetics Unit - October 2020
+#### Staistical Genetics Unit Journal Club (SGDP) - October 2020
 
-- Journal Club Presentation:
-["A Fast and Scalable Framework for Large-scale and Ultrahigh-dimensional Sparse Regression with Application in the Uk Biobank"](https://jodielord.netlify.com/JournalClub_1020.pdf).
-
-<br/>
-
-
-
-#### Social, Genetic and Developmental Psychiatry Centre (SGDP) - 2020
-
-- SGU Methods Meeting:
-["Mendelian Randomization: Introduction to methods and applications"](https://jodielord.netlify.com/methods_meeting_MR_JL_2020.pdf).
+[A Fast and Scalable Framework for Large-scale and Ultrahigh-dimensional Sparse Regression with Application in the Uk Biobank.](https://jodielord.netlify.com/JournalClub_1020.pdf)
 
 <br/>
 
-#### Maurice Wohl Clinical Neuroscience Institute - 2019
 
-- Center Talk:
-["Investigating the role of modifiable risk factors on the causal pathway to Alzheimer's Disease"](https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf).
+
+#### Statistical Genetics Unit Methods Meeting (SGDP) - 2020
+
+[Mendelian Randomization: Introduction to methods and applications.](https://jodielord.netlify.com/methods_meeting_MR_JL_2020.pdf)
+
+<br/>
+
+#### Maurice Wohl Clinical Neuroscience Institute Centre Talk - 2019
+
+[Investigating the role of modifiable risk factors on the causal pathway to Alzheimer's Disease.](https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf)
 
 
 <br/>
@@ -60,22 +56,22 @@ _______________________________________________________________________
 
 <br/>
 
-#### ISCB Poster 2020
+#### [ISCB Poster 2020](https://jodielord.netlify.com/ISCB_poster_2020_animated.gif)
 
-- [Link to work](https://jodielord.netlify.com/ISCB_poster_2020_animated.gif) presented at the 2020 conference of the International Society of Clinical Biostatistics, hosted virtually (due to ongoing COVID-19).
+Presented International Society of Clinical Biostatistics 2020 annual conference, hosted virtually (due to ongoing COVID-19).
 <br/>
 <br/>
 
 
-#### WCPG Poster 2019
+#### [WCPG Poster 2019](https://jodielord.netlify.com/WCPG2019_JodieLord.pdf)
 
-- [Link to poster](https://jodielord.netlify.com/WCPG2019_JodieLord.pdf) presented at the 2019 World Congress for Psychiatric Genetics, Los Angeles.
+Presented at the 2019 World Congress for Psychiatric Genetics, Los Angeles. _Winner: Early career investigator programme award._
 <br/>
 <br/>
 
-#### NIHR Biomedical Research Council Poster 2019
+#### [NIHR Biomedical Research Council Poster 2019](https://jodielord.netlify.com/JL_BRC_Poster2019.pdf)
 
-- [Link to poster](https://jodielord.netlify.com/JL_BRC_Poster2019.pdf) presented at the 2019 NIHR BRC Maudsley Conference, London.
+Presented at the 2019 NIHR BRC Maudsley Conference, London.
 
 <br/>
 

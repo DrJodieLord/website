@@ -18,11 +18,11 @@ _______________________________________________________________________
 _______________________________________________________________________
 
 
-#### Python workshop material and solutions
-- [Material and solutions](https://github.com/jodielord/python_teaching_material) across 4 introductory Python workshops. Intended for complete beginners. Topics covered include:
+#### [Python workshop materials and solutions](https://github.com/jodielord/python_teaching_material) 
+- Material and solutions across 4 introductory Python workshops. Intended for complete beginners. Topics covered include:
   - [Object assignment](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb)
   - [Basic arithmetic](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) 
-  - [Core data types](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) (integers, lists, dictionaries etc)
+  - [Core data types](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) 
   - [Slicing](https://github.com/jodielord/python_teaching_material/blob/master/Session1/session1.ipynb) 
   - [Loops](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb)  
   - [Libraries](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb) 
@@ -31,7 +31,8 @@ _______________________________________________________________________
   - [Data merging](https://github.com/jodielord/python_teaching_material/blob/master/Session2/Session2.ipynb) 
   - [Basic statistics](https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb) 
   - [Charting](https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb) 
-  - [Intro to basic machine learning](https://github.com/jodielord/python_teaching_material/blob/master/Session4_Solutions/Session4_Solutions.ipynb) (for complete beginners)
+  - [Introduction to machine learning](https://github.com/jodielord/python_teaching_material/blob/master/Session4_Solutions/Session4_Solutions.ipynb) 
+  - [Extra Resources and FAQs](https://jodielord.netlify.com/python_workshop_faqs.pdf)
 <br/>
 <br/>
 
