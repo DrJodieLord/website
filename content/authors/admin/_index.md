@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD student studying integrative omics
+bio: PhD student
 education:
   courses:
   - course: PGCert Applied Statistical Modelling - Distinction
@@ -16,18 +16,18 @@ education:
 
 email: ""
 interests:
-- Genetic Epidemiology
 - Biostatistics
-- Healthy Ageing
+- Genetic Epidemiology
 - Mental Health
+- Healthy Ageing
 - Cognition
-- Biomarkers
-- Prediction Modelling
+- Coding (including this website)
+- Causal inference
 
 name: Jodie Lord
 organizations:
 - name: King's College London
-  url: ""
+  url: "https://www.kcl.ac.uk/ioppn"
 role: PhD Student 
 social:
 - icon: envelope
@@ -36,6 +36,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JodieLord5
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=NeZqCwkAAAAJ&hl=en&oi=ao
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/jodie.lord/
@@ -55,16 +58,22 @@ user_groups:
 - Visitors
 ---
 
-Jodie is a PhD student working within the department of Basic and Clinical Neuroscience, King's College London. Her project focusses on the integration of metabolomics data with genomic and non-omic modalities in order to investigate predictive and causal markers of Alzheimer's Disease. 
-<br/>
+------------------------------------------------------------------------
 
-**Additional current commitments include:**
+Jodie is a PhD student working within the department of Basic and Clinical Neuroscience at King's College London. Her project focusses on the integration of metabolomics data with genomic and non-omic modalities to investigate predictive and causal markers of Alzheimer's Disease. <br>
 
-- **Part-time MSc:** Applied Statistical Modelling and Health Informatics. Department of Biostatistics, KCL. Thesis project focusses on high-dimensional mediation methods to identify key mediators within large, highly correlated data. 
-  
-  
-- **Graduate Teaching Assistant:** Department of Psychology, KCL. Includes acting as module lead for the "Big Data Analytics in Python" mini-module - responsible for producing all course and assessment material (teaching material openly accessible via my [github](https://github.com/jodielord/python_teaching_material)).
-  
-  
-- **Health-care work:** The Priory Hospital, Roehampton. Predominantly based within child and adolescent mental health and eating disorder wards.
+
+<br>
+
+Additional commitments:
+----
+------------------------------------------------------------------------
+
+-   **Part-time MSc:** Applied Statistical Modelling and Health Informatics. Department of Biostatistics, KCL. Thesis focusses on high-dimensional mediation methods to identify key mechanistic variables within large, highly correlated data. <br>
+
+-   **Graduate Teaching Assistant / Postgraduate Teacher:** Department of Psychology, KCL. Includes acting as module lead for the "Big Data Analytics in Python" mini-module - responsible for producing all course and assessment material (teaching material openly accessible via [github](https://github.com/jodielord/python_teaching_material)). <br>
+
+-   **Health-care work:** The Priory Hospital, Roehampton. Predominantly based within child and adolescent mental health and eating disorder wards. <br>
+
+-   **Training new labrador puppy** :heart_eyes:.
 

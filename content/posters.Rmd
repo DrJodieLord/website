@@ -1,24 +1,22 @@
 ---
-title: ""
+title: " "
 author: "Jodie Lord"
 date: "06/10/2019"
 output: html_document
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+
+
+## Talks & Presentations
+
 _______________________________________________________________________
 
-
-# Talks & Presentations
-
-_______________________________________________________________________
-
-<br/>
-
+<br>
 
 #### Edinburgh University - December 2020
 
@@ -27,15 +25,15 @@ _______________________________________________________________________
 <br/>
 
 
-#### Staistical Genetics Unit Journal Club (SGDP) - October 2020
+#### Statistical Genetics Unit Journal Club - October 2020
 
-[A Fast and Scalable Framework for Large-scale and Ultrahigh-dimensional Sparse Regression with Application in the Uk Biobank.](https://jodielord.netlify.com/JournalClub_1020.pdf)
+[A Fast and Scalable Framework for Large-scale and Ultrahigh-dimensional Sparse Regression with Application in the UK Biobank.](https://jodielord.netlify.com/JournalClub_1020.pdf)
 
 <br/>
 
 
 
-#### Statistical Genetics Unit Methods Meeting (SGDP) - 2020
+#### Social, Genetic and Developmental Psychiatry Centre Methods Meeting - 2020
 
 [Mendelian Randomization: Introduction to methods and applications.](https://jodielord.netlify.com/methods_meeting_MR_JL_2020.pdf)
 
@@ -46,19 +44,18 @@ _______________________________________________________________________
 [Investigating the role of modifiable risk factors on the causal pathway to Alzheimer's Disease.](https://jodielord.netlify.com/JodieLord_MWCNI_2019.pdf)
 
 
-<br/>
+<br>
+<br>
+
+
+## Latest Academic Posters
+
 _______________________________________________________________________
-
-
-# Academic Posters
-
-_______________________________________________________________________
-
-<br/>
+<br>
 
 #### [ISCB Poster 2020](https://jodielord.netlify.com/ISCB_poster_2020_animated.gif)
 
-Presented International Society of Clinical Biostatistics 2020 annual conference, hosted virtually (due to ongoing COVID-19).
+Presented at the International Society of Clinical Biostatistics 2020 annual conference, hosted virtually (due to ongoing COVID-19).
 <br/>
 <br/>
 

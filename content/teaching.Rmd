@@ -10,10 +10,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-_______________________________________________________________________
 
 
-# Learning Material
+
+## Learning Material
 
 _______________________________________________________________________
 
@@ -33,18 +33,18 @@ _______________________________________________________________________
   - [Charting](https://github.com/jodielord/python_teaching_material/blob/master/Session3/Session3.ipynb) 
   - [Introduction to machine learning](https://github.com/jodielord/python_teaching_material/blob/master/Session4_Solutions/Session4_Solutions.ipynb) 
   - [Extra Resources and FAQs](https://jodielord.netlify.com/python_workshop_faqs.pdf)
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
-____________
+## Introductory primers
 
+_______________________________________________________________________
 
-  
-### Introductory primers
 - [Introduction to R and RStudio.](https://jodielord.netlify.com/Intro_R.pdf)
   - What is R/RStudio?
   - How do I access and navigate RStudio?
-  - basic functionality
+  - Basic functionality
   - Useful resources
 <br/>
 <br/>
@@ -65,7 +65,7 @@ ____________
 <br/>
 
 - [Going further: Introduction to polygenic scoring.](https://jodielord.netlify.com/Going_further_intro_PRS.pdf)
-  - Mutliple testing challenges facing GWAS approaches.
+  - Multiple testing challenges facing GWAS approaches.
   - Polygenic scoring and how this can provide additional insights to standard GWAS outputs.
   - Within-trait vs cross-trait approaches.
   - Working example.
